@@ -1,0 +1,4 @@
+com\example\userservice\TestClient.class
+com\example\userservice\UserServiceImpl.class
+com\example\userservice\UserServiceServer.class
+org\example\Main.class
